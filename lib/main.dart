@@ -1,9 +1,7 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:gojek_ui/pages/home_page.dart';
 
-void main(){
+void main() {
   return runApp(MyApp());
 }
 
